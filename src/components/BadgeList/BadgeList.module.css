@@ -1,0 +1,10 @@
+.BadgeList {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    z-index: 5
+}

@@ -1,0 +1,8 @@
+.GenreBadge {
+    background-color: rgba(205, 35, 35, 0.7);
+    color: snow;
+
+    font-size: 12px;
+    font-weight: bolder;
+    padding: 5px;
+}

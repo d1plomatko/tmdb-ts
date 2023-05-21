@@ -1,0 +1,15 @@
+.MenuDrawerContainer {
+    padding: 30px 15px;
+    width: 250px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.MenuDrawerLink {
+    text-decoration: none;
+    color: inherit;
+    padding: 5px 10px;
+}

@@ -1,0 +1,11 @@
+.HeaderContainer {
+    display: flex!important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.HeaderNav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

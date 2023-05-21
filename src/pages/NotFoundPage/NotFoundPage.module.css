@@ -1,0 +1,12 @@
+.NotFoundContainer {
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+
+    min-height: calc(100vh - 164px)!important;
+}
+
+.NotFoundText {
+    font-weight: bold!important;
+    text-align: center;
+}
